@@ -22,7 +22,7 @@ git clone git@github.com:GabrielFerrariR/Projeto-Trivia.git
 cd Projeto-Trivia/src/
 npm install
 ``` 
-## Running aplication
+## Running application
 ```bash
  npm start
  ``` 
