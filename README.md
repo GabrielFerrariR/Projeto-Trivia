@@ -1,5 +1,8 @@
 
-![Trivia-Project](/public/gif1.gif)
+<p align="center">
+  <img src="./public/gif1.gif" />
+</p>
+
 # Trivia project
 
 # About
